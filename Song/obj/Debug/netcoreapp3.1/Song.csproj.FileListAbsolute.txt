@@ -1,0 +1,5 @@
+C:\Users\JAK58\source\repos\Song\Song\obj\Debug\netcoreapp3.1\Song.csproj.AssemblyReference.cache
+C:\Users\JAK58\source\repos\Song\Song\obj\Debug\netcoreapp3.1\Song.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAK58\source\repos\Song\Song\obj\Debug\netcoreapp3.1\Song.AssemblyInfoInputs.cache
+C:\Users\JAK58\source\repos\Song\Song\obj\Debug\netcoreapp3.1\Song.AssemblyInfo.cs
+C:\Users\JAK58\source\repos\Song\Song\obj\Debug\netcoreapp3.1\Song.csproj.CoreCompileInputs.cache
